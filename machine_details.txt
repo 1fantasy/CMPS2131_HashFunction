@@ -1,0 +1,4 @@
+Architecture:                            x86_64
+CPU(s):                                  16
+Model name:                              AMD Ryzen 7 PRO 6850U with Radeon Graphics
+NUMA node0 CPU(s):                       0-15
